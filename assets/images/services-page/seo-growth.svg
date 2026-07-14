@@ -1,0 +1,13 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1200" y2="800"><stop stop-color="#DBEAFE"/><stop offset="1" stop-color="#E0E7FF"/></linearGradient></defs>
+<rect width="1200" height="800" rx="44" fill="url(#g)"/>
+<circle cx="1020" cy="120" r="150" fill="white" fill-opacity=".28"/>
+<circle cx="160" cy="700" r="190" fill="white" fill-opacity=".2"/>
+
+        <rect x="230" y="220" width="740" height="420" rx="30" fill="white"/>
+        <rect x="300" y="300" width="130" height="210" rx="16" fill="#DBEAFE"/>
+        <rect x="465" y="360" width="130" height="150" rx="16" fill="#C4B5FD"/>
+        <rect x="630" y="260" width="130" height="250" rx="16" fill="#7C3AED"/>
+        <rect x="795" y="190" width="130" height="320" rx="16" fill="#2563EB"/>
+<text x="600" y="740" text-anchor="middle" fill="#111827" font-family="Arial" font-size="42" font-weight="700">SEO & Growth</text>
+</svg>

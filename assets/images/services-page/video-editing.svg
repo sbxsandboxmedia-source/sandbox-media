@@ -1,0 +1,13 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1200" y2="800"><stop stop-color="#E0E7FF"/><stop offset="1" stop-color="#F3E8FF"/></linearGradient></defs>
+<rect width="1200" height="800" rx="44" fill="url(#g)"/>
+<circle cx="1020" cy="120" r="150" fill="white" fill-opacity=".28"/>
+<circle cx="160" cy="700" r="190" fill="white" fill-opacity=".2"/>
+
+        <rect x="220" y="200" width="760" height="440" rx="30" fill="#111827"/>
+        <rect x="270" y="245" width="660" height="260" rx="22" fill="#4F46E5"/>
+        <circle cx="600" cy="375" r="58" fill="white"/>
+        <path d="M580 340L640 375L580 410V340Z" fill="#4F46E5"/>
+        <rect x="270" y="545" width="660" height="36" rx="12" fill="#0F172A"/>
+<text x="600" y="740" text-anchor="middle" fill="#111827" font-family="Arial" font-size="42" font-weight="700">Video Editing</text>
+</svg>

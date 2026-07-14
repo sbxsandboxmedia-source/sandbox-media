@@ -1,0 +1,16 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1200" y2="800"><stop stop-color="#DBEAFE"/><stop offset="1" stop-color="#EDE9FE"/></linearGradient></defs>
+<rect width="1200" height="800" rx="44" fill="url(#g)"/>
+<circle cx="1020" cy="120" r="150" fill="white" fill-opacity=".28"/>
+<circle cx="160" cy="700" r="190" fill="white" fill-opacity=".2"/>
+
+        <rect x="230" y="220" width="740" height="420" rx="30" fill="white"/>
+        <rect x="230" y="220" width="740" height="60" rx="30" fill="#F8FAFC"/>
+        <circle cx="275" cy="250" r="8" fill="#CBD5E1"/><circle cx="303" cy="250" r="8" fill="#CBD5E1"/><circle cx="331" cy="250" r="8" fill="#CBD5E1"/>
+        <rect x="280" y="345" width="290" height="26" rx="13" fill="#111827"/>
+        <rect x="280" y="397" width="410" height="16" rx="8" fill="#CBD5E1"/>
+        <rect x="280" y="433" width="330" height="16" rx="8" fill="#E2E8F0"/>
+        <rect x="280" y="500" width="140" height="48" rx="15" fill="#4F46E5"/>
+        <rect x="735" y="335" width="170" height="170" rx="24" fill="#EEF2FF"/>
+<text x="600" y="740" text-anchor="middle" fill="#111827" font-family="Arial" font-size="42" font-weight="700">Website Design</text>
+</svg>
