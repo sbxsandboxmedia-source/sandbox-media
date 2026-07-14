@@ -1,0 +1,18 @@
+<svg width="1600" height="1100" viewBox="0 0 1600 1100" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1600" y2="1100"><stop stop-color="#E0E7FF"/><stop offset="1" stop-color="#EDE9FE"/></linearGradient></defs>
+<rect width="1600" height="1100" rx="60" fill="url(#g)"/>
+<circle cx="1320" cy="170" r="210" fill="white" fill-opacity=".25"/>
+<circle cx="180" cy="930" r="240" fill="white" fill-opacity=".18"/>
+<rect x="150" y="115" width="1300" height="760" rx="44" fill="white"/>
+<rect x="150" y="115" width="1300" height="76" rx="44" fill="#F8FAFC"/>
+<circle cx="215" cy="153" r="11" fill="#CBD5E1"/><circle cx="253" cy="153" r="11" fill="#CBD5E1"/><circle cx="291" cy="153" r="11" fill="#CBD5E1"/>
+<rect x="360" y="140" width="280" height="22" rx="11" fill="#DCE3EE"/>
+<rect x="215" y="255" width="420" height="42" rx="21" fill="#111827"/>
+<rect x="215" y="330" width="540" height="20" rx="10" fill="#CBD5E1"/>
+<rect x="215" y="375" width="450" height="20" rx="10" fill="#E2E8F0"/>
+<rect x="215" y="460" width="180" height="64" rx="20" fill="#4F46E5"/>
+<rect x="860" y="250" width="410" height="410" rx="34" fill="#EEF2FF"/>
+<rect x="215" y="690" width="1055" height="110" rx="24" fill="#F8FAFC"/>
+<text x="800" y="980" text-anchor="middle" fill="#111827" font-family="Arial" font-size="62" font-weight="700">Business Operations OS</text>
+<text x="800" y="1040" text-anchor="middle" fill="#475569" font-family="Arial" font-size="28">Case Study Hero</text>
+</svg>
